@@ -1,0 +1,12 @@
+h1{
+    margin-left: 10%;
+    color: white;
+    background-color: teal;
+}
+#sliding-navigation{
+    background-color: teal;
+    color: white;
+    padding-right: 10%;
+    float: right;
+}
+        
